@@ -1,5 +1,5 @@
 # HOTEL-STAY-ANALYSIS
-##CAPSTONE PROJECT – HOTEL STAY ANALYSIS | Power BI & SQL Server
+#CAPSTONE PROJECT – HOTEL STAY ANALYSIS | Power BI & SQL Server
 
 **Domain & Data Overview – Hospitality / Hotel Management**
 
