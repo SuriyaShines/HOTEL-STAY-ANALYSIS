@@ -40,8 +40,8 @@ and speeding up load times.
 reducing the number of visuals on the report page and improving rendering performance. 
 - Used SQL Server for end-to-end data validation at every stage of the report development, ensuring 
 consistency and accuracy between source data and Power BI report figures.
+- Published report in Power BI Service workspace and built a dashboard consolidating key visuals to 
+provide with a real-time view of business performance.
 
 ## 1 Home/Landing Page
 ![Home Page](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Home%20or%20Landing%20Page.png)
-• Published report in Power BI Service workspace and built a dashboard consolidating key visuals to 
-provide with a real-time view of business performance.
