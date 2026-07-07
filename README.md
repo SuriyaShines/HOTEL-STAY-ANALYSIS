@@ -1,14 +1,18 @@
 # HOTEL-STAY-ANALYSIS
-##CAPSTONE PROJECT – HOTEL STAY ANALYSIS | Power BI & SQL Server 
-**Domain & Data Overview – Hospitality / Hotel Management** 
+##CAPSTONE PROJECT – HOTEL STAY ANALYSIS | Power BI & SQL Server
+
+**Domain & Data Overview – Hospitality / Hotel Management**
+
 This project is based on the Hospitality domain, analysing operational data 
 from 15 hotels with 13000+ records. The dashboard provides insights into customer occupancy, revenue, 
 profit, employee staffing, and hotel performance. It helps management monitor financial trends, optimize 
 workforce planning, and improve business decisions. Designed an optimized data model and created 
 advanced DAX measures to track occupancy, customer stays, revenue, employee wages, and profitability 
-trends. 
+trends.
+
 **Key business areas covered:** Check-ins (Night Stays) & Revenue Analytics, Employee Overview, 
-Customer Analytics, Workforce Utilization, Trend Analysis and Expenses & Profitability Analysis. 
+Customer Analytics, Workforce Utilization, Trend Analysis and Expenses & Profitability Analysis.
+
 - Extracted, transformed, and loaded (ETL) data from SQL Server to build a clean and structured 
 dataset for accurate and reliable analysis and reporting. 
 - Designed a data model (Star schema) with well-defined relationships so different datasets 
