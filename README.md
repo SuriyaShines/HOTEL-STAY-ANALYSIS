@@ -45,3 +45,33 @@ provide with a real-time view of business performance.
 
 ## 1 Home/Landing Page
 ![Home Page](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Home%20or%20Landing%20Page.png)
+
+## 2 Operational Overview
+### Arrivals & Departures
+![Sub-page 1](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Operational%20Overview%20-%20Arrivals%20%26%20Depatures.png)
+### Occupancy
+![Sub-page 2](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Operational%20Overview%20-%20Occupancy.png)
+
+## 3 Employee Overview
+![Employee Overview](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Employee%20Overview.png)
+
+## 4 Revenue & Expenses
+### Revenue
+![Revenue](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Revenue%20%26%20Expenses%20-%20Revenue%20I.png)
+### Expenses
+![Expenses](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Revenue%20%26%20Expenses%20-%20Expenses.png)
+
+## 5 Profitability Analysis
+![Profitability Analysis](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Profitability%20Analysis.png)
+
+## 6 Trend Analysis
+![Trend Analysis](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Trend%20Analysis%20-%20I.png)
+
+## 7 Staffing Status
+![Staffing Status](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Staffing%20Status.png)
+
+## 8 Customer Insights
+![Customer Insights](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Customer%20Insights.png)
+
+## Drill-Through Page
+![Drill-Through](https://github.com/SuriyaShines/HOTEL-STAY-ANALYSIS/blob/main/Drill-Through%20Page.png)
